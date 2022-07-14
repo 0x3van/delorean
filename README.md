@@ -19,7 +19,8 @@
     |>>>>>>||                            ||<<<<<<|    
     `\<<<<</'                            `\>>>>>/' 
 
-    
+
+
+== DESCRIPTION ==
+DELOREAN is a polymorphic webshell generator. By randomizing junk code, bits and bytes, it prevents sysadmins from detecting your attacks.
  ```
-<hr>
-DeLorean is a polymorphic webshell generator that allows one to obfuscate their attack patterns.
