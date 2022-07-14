@@ -31,4 +31,7 @@ DELOREAN is a polymorphic webshell generator. By randomizing junk code, bits and
 Lua, Python and Go
 
 Dependencies written in: ASP.NET, ASP, ASPX, JAVA, JSP, PHP
+
+
+In case of an investigation by any federal entity or similar, I do not have any involvement with this group or with the people in it, I do not support nor condone their actions or wishes. :troll:
  ```
