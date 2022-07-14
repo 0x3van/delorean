@@ -6,7 +6,7 @@ import random
 from base64 import b64encode
 import re 
 
-
+ 
 class Strings(object) : 
 	
 	ints = "1234567890"
