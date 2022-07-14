@@ -1,4 +1,4 @@
-```
+ A```
    __---~~~~--__                      __--~~~~---__
   `\---~~~~~~~~\\                    //~~~~~~~~---/'
     \/~~~~~~~~~\||                  ||/~~~~~~~~~\/
@@ -23,4 +23,12 @@
 
 == DESCRIPTION ==
 DELOREAN is a polymorphic webshell generator. By randomizing junk code, bits and bytes, it prevents sysadmins from detecting your attacks.
+
+
+
+
+== WRITTEN IN ==
+Lua, Python and Go
+
+Dependencies written in: ASP.NET, ASP, ASPX, JAVA, JSP, PHP
  ```
