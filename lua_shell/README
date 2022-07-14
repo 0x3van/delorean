@@ -1,0 +1,3 @@
+Delorean Lua - Shell
+
+This is a webshell written in Lua, controlled remotely via Go, for exploitation and OSCI.
