@@ -11,6 +11,7 @@
 <%@ Import namespace="System.Collections" %> 
 
 <script runat="server">
+// all of this code is written by strangers from the internet. i simply took them and modified them for pm webshell use. - delorean dev
 
 private const string password = "pass";
 private const string style = "dark";
